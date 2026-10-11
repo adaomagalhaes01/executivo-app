@@ -1,0 +1,186 @@
+{
+  "corolla": {
+    "cover": {
+      "asset": "assets/images/rentacar/corolla_cover.jpg",
+      "commonsFile": "File:2017 FAW-Toyota Corolla (facelift).jpg",
+      "author": "User3204",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org"
+    },
+    "angle": {
+      "asset": "assets/images/rentacar/corolla_angle.jpg",
+      "commonsFile": "File:2017 Toyota Corolla (ZRE172R) Ascent sedan (2018-03-20).jpg",
+      "author": "EurovisionNim",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org"
+    },
+    "interior": {
+      "asset": "assets/images/rentacar/corolla_interior.jpg",
+      "commonsFile": "File:2005 toyota corolla s dashboard.jpg",
+      "author": "No machine-readable author provided. Milkmandan~commonswiki assumed (based on copyright claims).",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org"
+    }
+  },
+  "landcruiser": {
+    "cover": {
+      "asset": "assets/images/rentacar/landcruiser_cover.jpg",
+      "commonsFile": "File:TOYOTA LAND CRUISER PRADO (J150) China.jpg",
+      "author": "Dinkun Chen",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org"
+    },
+    "angle": {
+      "asset": "assets/images/rentacar/landcruiser_angle.jpg",
+      "commonsFile": "File:2009 Toyota Land Cruiser-Prado 01.jpg",
+      "author": "Mytho88",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org"
+    },
+    "interior": {
+      "asset": "assets/images/rentacar/landcruiser_interior.jpg",
+      "commonsFile": "File:1994 Toyota Land Cruiser KZJ78-001488 (53769354492).jpg",
+      "author": "Guyon from Richmond, VA, United States of America",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org"
+    }
+  },
+  "tucson": {
+    "cover": {
+      "asset": "assets/images/rentacar/tucson_cover.jpg",
+      "commonsFile": "File:2015-03-03 Geneva Motor Show 5840.JPG",
+      "author": "Norbert Aepli, Switzerland (User:Noebu)",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org"
+    },
+    "angle": {
+      "asset": "assets/images/rentacar/tucson_angle.jpg",
+      "commonsFile": "File:2018 Hyundai Tucson Elite rear.jpg",
+      "author": "LuvsMG481",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org"
+    },
+    "interior": {
+      "asset": "assets/images/rentacar/tucson_interior.jpg",
+      "commonsFile": "File:2015 Hyundai Tucson (TLe MY16) Elite CRDi AWD wagon (2015-10-10) 03.jpg",
+      "author": "OSX",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org"
+    }
+  },
+  "hilux": {
+    "cover": {
+      "asset": "assets/images/rentacar/hilux_cover.jpg",
+      "commonsFile": "File:2020 Toyota Hilux Revo 4x4 Double-Cab 2.8 Rocco.jpg",
+      "author": "Chanokchon",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org"
+    },
+    "angle": {
+      "asset": "assets/images/rentacar/hilux_angle.jpg",
+      "commonsFile": "File:2020 Toyota Hilux Revo 4x4 Double-Cab 2.8 Rocco (Rear).jpg",
+      "author": "Chanokchon",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org"
+    },
+    "interior": {
+      "asset": "assets/images/rentacar/hilux_interior.jpg",
+      "commonsFile": "File:1997 Toyota Hilux 2.4D 4x2 (interior).jpg",
+      "author": "Ethan Llamas",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org"
+    }
+  },
+  "cclass": {
+    "cover": {
+      "asset": "assets/images/rentacar/cclass_cover.jpg",
+      "commonsFile": "File:MERCEDES-BENZ C-CLASS LWB SEDAN (V205) China (9).jpg",
+      "author": "Dinkun Chen",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org"
+    },
+    "angle": {
+      "asset": "assets/images/rentacar/cclass_angle.jpg",
+      "commonsFile": "File:2016 Mercedes-Benz C-Class C220d SE Executive (W205) - 2.2 (170PS) diesel automatic - 2025-05-05, rear right.jpg",
+      "author": "DieselFordMondeo",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org"
+    },
+    "interior": {
+      "asset": "assets/images/rentacar/cclass_interior.jpg",
+      "commonsFile": "File:Mercedes-Benz C-Class W205 JPN 003.JPG",
+      "author": "CEFICEFI",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org"
+    }
+  },
+  "golf": {
+    "cover": {
+      "asset": "assets/images/rentacar/golf_cover.jpg",
+      "commonsFile": "File:VOLKSWAGEN GOLF (Mk7, Typ 5G) China.jpg",
+      "author": "Dinkun Chen",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org"
+    },
+    "angle": {
+      "asset": "assets/images/rentacar/golf_angle.jpg",
+      "commonsFile": "File:2017 Volkswagen Golf 5dr (VII Mk7 5G) facelift rear (gold) 1.jpg",
+      "author": "Steinfeld-feld",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org"
+    },
+    "interior": {
+      "asset": "assets/images/rentacar/golf_interior.jpg",
+      "commonsFile": "File:12-10-08-golf-7-by-RalfR-06.jpg",
+      "author": "Ralf Roletschek (talk) - Infos über Fahrräder auf fahrradmonteur.de",
+      "license": "FAL",
+      "source": "https://commons.wikimedia.org"
+    }
+  },
+  "hiace": {
+    "cover": {
+      "asset": "assets/images/rentacar/hiace_cover.jpg",
+      "commonsFile": "File:TOYOTA HIACE (H100) HONG KONG.jpg",
+      "author": "Dinkun Chen",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org"
+    },
+    "angle": {
+      "asset": "assets/images/rentacar/hiace_angle.jpg",
+      "commonsFile": "File:Toyota Hiace H100 3.0 Super Grandia J Luxury Pearl Toning - rear.jpg",
+      "author": "Ethan Llamas",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org"
+    },
+    "interior": {
+      "asset": "assets/images/rentacar/hiace_interior.jpg",
+      "commonsFile": "File:Toyota Hiace Wagon Super Custom Sun & Moon Roof YH51G interior.jpg",
+      "author": "Ypy31",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org"
+    }
+  },
+  "duster": {
+    "cover": {
+      "asset": "assets/images/rentacar/duster_cover.jpg",
+      "commonsFile": "File:2022 Renault Duster Intens 4x2 1.3 Turbo (Colombia) front view.png",
+      "author": "Autosdeprimera",
+      "license": "CC BY 3.0",
+      "source": "https://commons.wikimedia.org"
+    },
+    "angle": {
+      "asset": "assets/images/rentacar/duster_angle.jpg",
+      "commonsFile": "File:2020 Renault Duster RXZ 1.3 Turbo CVT (India) rear view.png",
+      "author": "The Drivers Hub",
+      "license": "CC BY 3.0",
+      "source": "https://commons.wikimedia.org"
+    },
+    "interior": {
+      "asset": "assets/images/rentacar/duster_interior.jpg",
+      "commonsFile": "File:2022 Renault Duster Intens 4x4 1.3 Turbo (Colombia) interior.png",
+      "author": "Autosdeprimera",
+      "license": "CC BY 3.0",
+      "source": "https://commons.wikimedia.org"
+    }
+  }
+}
